@@ -22,6 +22,15 @@ Initialized empty Git repository in C:/Users/i/Desktop/TIL/.git/
 작업한 내용을 커밋 대상 목록에 추가한다.
 
 ```bash
+$ git add .				# 현재 디렉토리(하위 디렉토리 포함)
+$ git add a.html		# 특정 파일
+$ git add b.html c.html	# 특정 다수 파일
+$ git add blog/			# 특정 폴더
+```
+
+
+
+```bash
 # 작업 후 상태
 $ git status
 On branch master
