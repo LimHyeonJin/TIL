@@ -290,8 +290,8 @@
    5315196 Hellobranch
    7bcaf91 Init
    
-```
-
+   ```
+   
 5. master에 병합
 
    ```bash
@@ -376,7 +376,7 @@
    * | a6530b3 Update README
    |/
    *   fb9c33d Merge branch 'feature/poll' into master
-   ```
+    ```
 
 
 10. branch 삭제
