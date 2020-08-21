@@ -7,12 +7,10 @@
 ## [Git](./git/)
 
 * Git 기초
-```bash
-$ git init				   	   # 저장소 초기화
-$ git add .					   # 커밋목록에 추가 (.을 하면 현재폴더 전부)
-$ git commit -m '커밋할 이름'	# 커밋(버전 기록)
+* Git 원격 저장소 활용
+* branch
 
-```
+
 
 
 
