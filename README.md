@@ -18,6 +18,6 @@
 
 
 
-### python
+### [Python](./python/)
 
 * 가상환경
